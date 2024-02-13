@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sophia Saifi, Rhea Mogul",
+      "title": "Vote counting in Pakistan hit by unexpected delays after millions cast their ballot in controversial general election - CNN",
+      "description": "Vote counting in Pakistan’s general election has been hit by unexpected delays after millions cast their ballot in an election in which old dynasties vied for power while the country’s widely popular former leader languishes behind bars.",
+      "url": "https://www.cnn.com/2024/02/08/asia/pakistan-election-day-voting-polls-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240206155739-video-thumbnail-pakistan-elections-1.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-09T10:02:00Z",
+      "content": "Vote counting in Pakistans general election has been hit by unexpected delays after millions cast their ballot in a race in which old dynasties are vying for power while the countrys widely popular f… [+6971 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "'My memory is fine' - Biden hits back at special counsel - BBC.com",
+      "description": "The president rejects findings he disclosed classified material and denies he forgot when his son died.",
+      "url": "https://www.bbc.com/news/world-us-canada-68244352",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C0C/production/_132600198_biden-index-afp.jpg",
+      "publishedAt": "2024-02-09T09:50:03Z",
+      "content": "Watch: Biden responds to special counsel - \"I'm elderly and know what the hell I'm doing\"\r\nUS President Joe Biden has hit back angrily at an investigation that found he mishandled top secret files an… [+4933 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "MICHELLE L. PRICE, JONATHAN J. COOPER, GABE STERN",
+      "title": "Nevada GOP caucuses results: Donald Trump wins - The Associated Press",
+      "description": "Donald Trump has won Nevada’s Republican presidential caucuses after he was the only major candidate to participate. The former president handily won Thursday’s contest run by the state Republican Party and wins Nevada’s 26 delegates as he seeks to accrue eno…",
+      "url": "https://apnews.com/article/nevada-republican-presidential-caucus-trump-haley-0fe1ce819c38b6e70f4e4ddc899a5b84",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cb5e230/2147483647/strip/true/crop/4673x2629+0+243/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2F26%2F08594fcfa263bf780a0d12121237%2F15e1b63eb3c441308593eddbc19809cd",
+      "publishedAt": "2024-02-09T09:36:00Z",
+      "content": "LAS VEGAS (AP) Former President Donald Trump won Nevadas Republican presidential caucuses Thursday after he was the only major candidate to compete, winning his third straight state as he tries to se… [+4371 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Nika Shakhnazarova",
+      "title": "Prince Harry leaves players starstruck at NFL Honors after quick dash to see cancer-stricken King Charles - New York Post ",
+      "description": "The Duke of Sussex, 39, attended the star-studded ceremony in Las Vegas, where he handed out the Walter Payton NFL Man of the Year award.",
+      "url": "https://nypost.com/2024/02/09/entertainment/prince-harry-leaves-players-starstruck-at-nfl-awards-after-visiting-cancer-stricken-king-charles/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/76185674.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-02-09T09:08:00Z",
+      "content": "Prince Harry left NFL players starstruck at Thursday’s Honors ceremony following his brief trans-Atlantic dash to see his cancer-stricken father King Charles.\r\nThe Duke of Sussex, 39, attended the st… [+3001 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mike Coppinger",
+      "title": "Teofimo Lopez tops Jamaine Ortiz, retains title despite boos - ESPN",
+      "description": "Teofimo Lopez failed to put on a show but managed to score a unanimous-decision win over Jamaine Ortiz to retain his WBO junior welterweight title Thursday.",
+      "url": "https://www.espn.com/boxing/story/_/id/39489272/teofimo-lopez-tops-jamaine-ortiz-retains-title-boos",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0209%2Fr1288905_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-02-09T05:57:00Z",
+      "content": "LAS VEGAS -- Teofimo Lopez strutted his way to the ring Thursday night accompanied by a sword eater and other circus acts as he channeled Hugh Jackman's \"The Greatest Showman\" complete with top hat a… [+3789 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Yasmeen Abutaleb",
+      "title": "Biden says Israel's military conduct in Gaza has been 'over the top' - The Washington Post",
+      "description": "The comments marked the sharpest rebuke yet from Biden, who has been reluctant to criticize Israel despite rising pressure from his party.",
+      "url": "https://www.washingtonpost.com/politics/2024/02/08/biden-israel-gaza-speech-netanyahu/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2024/t_ce1f8acfd07b4944a0470f6adcd97e6c_name_biden__2.jpg&w=1440",
+      "publishedAt": "2024-02-09T05:09:00Z",
+      "content": "President Biden on Thursday said Israels military campaign in Gaza has been over the top in his sharpest rebuke yet and said he hoped the current negotiations over a release of hostages in exchange f… [+5159 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Scott Thompson, Ryan Morik",
+      "title": "2024 Class of Pro Football Hall of Fame revealed: Dwight Freeney, Devin Hester headline star-studded group - Fox News",
+      "description": "The Pro Football Hall of Fame Class of 2024 was revealed during the NFL Honors Thursday night in Las Vegas, and it was star-studded group that included Dwight Freeney and Devin Hester.",
+      "url": "https://www.foxnews.com/sports/2024-class-pro-football-hall-fame-revealed-dwight-freeney-devin-hester-headline-star-studded-group",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Dwight-Freeney.jpg",
+      "publishedAt": "2024-02-09T04:10:00Z",
+      "content": "The Pro Football Hall of Fame Class of 2024 was announced at the NFL Honors in Las Vegas on Thursday night, and as always, it's a star-studded group. \r\nLet's take a look at who will be getting their … [+3740 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Kurt Helin",
+      "title": "Winners, losers from 2024 NBA trade deadline - NBC Sports",
+      "description": "\"Never mistake activity for achievement.\" That classic John Woodenism applies to this trade deadline.",
+      "url": "https://www.nbcsports.com/nba/news/winners-losers-from-2024-nba-trade-deadline",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/cb2db02/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F30%2F547%2Fnbc_bfa_adondeintv_240208.jpg",
+      "publishedAt": "2024-02-09T03:35:06Z",
+      "content": "In the week before Thursdays NBA trade deadline there were 20 trades made with all but seven teams involved. Thats a lot of activity, a lot of players on the move. Despite that, the overall vibe of t… [+6656 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Man who shoveled new channel into Lake Michigan convicted of 2 misdemeanors - CBS News",
+      "description": "Andrew Howard of Frankfort was found guilty of tampering and vandalism Wednesday during a brief trial in front of U.S. Magistrate Judge Ray Kent.",
+      "url": "https://www.cbsnews.com/news/man-convicted-for-diverting-platte-river-to-ease-boat-access-on-lake-michigan/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/08/e08eaf49-e608-4523-a63c-e3f42adb765f/thumbnail/1200x630/4f2bbc326146e10314701c854762c0df/platte-river-michigan-before-and-after-diversion-aug-2022.png?v=39487f160c45192867463e7cb2b51dad",
+      "publishedAt": "2024-02-09T03:09:13Z",
+      "content": "A man accused of diverting a national park river to ease boat access to Lake Michigan has been convicted of two misdemeanors.\r\nAndrew Howard of Frankfort, Michigan, was found guilty of tampering and … [+1951 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Candidates clash and tempers flare at New York special election debate - POLITICO",
+      "description": "GOP-backed Mazi Pilip and Democrat Tom Suozzi faced off over the border, abortion and more.",
+      "url": "https://www.politico.com/news/2024/02/08/candidates-clash-and-tempers-flare-at-new-york-special-election-debate-00140634",
+      "urlToImage": "https://static.politico.com/a1/78/dcc2ffa8413dbfe2ee035e0d0f11/645e2389-5272-48fb-99c1-7c017efdf626.jpg",
+      "publishedAt": "2024-02-09T02:53:54Z",
+      "content": "Pilip sought to portray Suozzi, a former member of congress, as polished but not practical.\r\nYou know the difference between me and you? the county legislator challenged. You are a talker. I am the p… [+3231 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The Rock slaps Cody Rhodes: WrestleMania XL Kickoff - WWE",
+      "description": "After Cody Rhodes chooses Roman Reigns to face at WrestleMania he crosses The Rock who slaps him across the face after Rhodes seemingly disrespects his famil...",
+      "url": "https://www.youtube.com/watch?v=hJYdJxjNdHs",
+      "urlToImage": "https://i.ytimg.com/vi/hJYdJxjNdHs/maxresdefault.jpg",
+      "publishedAt": "2024-02-09T01:53:21Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Super Bowl 2024: Usher promises to roller-skate during half-time performance - BBC.com",
+      "description": "R&B singer Usher will celebrate 30 years of hits, when he takes to the stage in Las Vegas this weekend.",
+      "url": "https://www.bbc.com/news/entertainment-arts-68238272",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1814F/production/_132593689_usher.jpg",
+      "publishedAt": "2024-02-09T01:13:38Z",
+      "content": "By Mark SavageBBC Music Correspondent\r\nUsher learned to skate for his Las Vegas residency, which ran for 100 sold-out shows\r\nR&amp;B singer Usher has promised to roller-skate during his Super Bowl ha… [+6423 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Daily News" },
+      "author": "Molly Crane-Newman",
+      "title": "Seven indicted in Times Square migrant-NYPD brawl; DA Alvin Bragg denies reported out-of-state busts in case - New York Daily News",
+      "description": "Mayor Adams praised Bragg and the Police Department’s sophisticated handling of the case and urged New Yorkers to respect the legal process.",
+      "url": "http://www.nydailynews.com/2024/02/08/seven-indicted-in-times-square-migrant-nypd-brawl-da-alvin-bragg-denies-reported-out-of-state-busts-in-case/",
+      "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/02/TNY-Bragg-Williams-2268.jpg?w=1024&h=682",
+      "publishedAt": "2024-02-09T00:48:51Z",
+      "content": "Seven people have been indicted in connection to the Times Square melee between a group of migrants and NYPD officers, Manhattan District Attorney Alvin Bragg said at a joint press conference Thursda… [+5851 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KABC-TV" },
+      "author": null,
+      "title": "Kobe Bryant statue unveiled in moving ceremony at Crypto.com Arena - KABC-TV",
+      "description": "In an emotional tribute to one of the city's most beloved sports figures, the Lakers on Thursday unveiled a statue of Kobe Bryant at Crypto.com Arena.",
+      "url": "https://abc7.com/kobe-bryant-statue-crypto-arena-star-plaza-lakers/14397084/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14402051_020824-kobe-statue-getty.jpg?w=1600",
+      "publishedAt": "2024-02-09T00:16:53Z",
+      "content": "LOS ANGELES (KABC) -- In an emotional tribute to one of the city's most beloved sports figures, the Lakers on Thursday unveiled a statue of Kobe Bryant at Crypto.com Arena.\r\nThe statue unveiled at th… [+3718 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "California sends reinforcements as crime surges in Oakland - POLITICO",
+      "description": "State sends prosecutors to help recently deployed extra police amid political shift toward law enforcement.",
+      "url": "https://www.politico.com/news/2024/02/08/california-sends-reinforcements-as-crime-surges-in-oakland-00140481",
+      "urlToImage": "https://static.politico.com/85/ff/1a5ef14c416699493a32afadcdce/oaklands-new-team-baseball-58084.jpg",
+      "publishedAt": "2024-02-08T23:40:59Z",
+      "content": "The narrative around crime and lawlessness in Oakland is out of control and it clearly got the attention of both the governor and the attorney general, said Justin Berton, a political consultant who … [+3075 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Tom O'Connor",
+      "title": "Hezbollah Launches Fiery Response to Israel After Drone Strike in Lebanon - Newsweek",
+      "description": "\"Now sirens are sounding in a number of settlements,\" a Hezbollah spokesperson told Newsweek.",
+      "url": "https://www.newsweek.com/hezbollah-response-israel-drone-strike-lebanon-1868380",
+      "urlToImage": "https://d.newsweek.com/en/full/2346726/launch-lebanon-against-israel-gaza-war.jpg",
+      "publishedAt": "2024-02-08T23:23:48Z",
+      "content": "Hezbollah has launched a new salvo of attacks against northern Israel in response to a drone strike that targeted a vehicle reportedly belonging to a senior member of the group in southern Lebanon.\r\n… [+6396 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Yun Li",
+      "title": "Stock futures inch lower in overnight trading after S&P 500 touches historic 5,000 mark: Live updates - CNBC",
+      "description": "A solid earnings season, easing inflation data and a resilient economy have powered the market rally into 2024, with the S&P 500 up 4.8% on the year.",
+      "url": "https://www.cnbc.com/2024/02/08/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367056-1706715549741-gettyimages-1967855492-AFP_34HB8TC.jpeg?v=1706715611&w=1920&h=1080",
+      "publishedAt": "2024-02-08T23:11:00Z",
+      "content": "Stock futures edged lower Thursday evening after the S&amp;P 500 crossed the historic 5,000 milestone for the first time during intraday trading.\r\nFutures on the Dow Jones Industrial Average dipped 3… [+1614 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Times of Israel" },
+      "author": "The Times of Israel",
+      "title": "Ukraine’s Zelensky replaces his top general to shake up deadlocked war with Russia - The Times of Israel",
+      "description": null,
+      "url": "https://www.timesofisrael.com/ukraines-zelensky-replaces-top-general-to-shake-up-deadlocked-war-with-russia/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-08T22:43:08Z",
+      "content": null
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Dan Goodin",
+      "title": "A password manager LastPass calls “fraudulent” booted from App Store - Ars Technica",
+      "description": "\"LassPass\" mimicked the name and logo of real LastPass password manager.",
+      "url": "https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/phone-threat-760x380.jpeg",
+      "publishedAt": "2024-02-08T22:16:25Z",
+      "content": "43\r\nAs Apple has stepped up its promotion of its App Store as a safer and more trustworthy source of apps, its operators scrambled Thursday to correct a major threat to that narrative: a listing that… [+3867 chars]"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewRabbit.com/static/css/main.dc4d6ff2.css",
+    "main.js": "/NewRabbit.com/static/js/main.1e2a2470.js",
+    "static/js/592.d53f2e83.chunk.js": "/NewRabbit.com/static/js/592.d53f2e83.chunk.js",
+    "static/media/loading.gif": "/NewRabbit.com/static/media/loading.bffcf9de67bf17cc46e1.gif",
+    "index.html": "/NewRabbit.com/index.html",
+    "main.dc4d6ff2.css.map": "/NewRabbit.com/static/css/main.dc4d6ff2.css.map",
+    "main.1e2a2470.js.map": "/NewRabbit.com/static/js/main.1e2a2470.js.map",
+    "592.d53f2e83.chunk.js.map": "/NewRabbit.com/static/js/592.d53f2e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.1e2a2470.js"
+  ]
+}
